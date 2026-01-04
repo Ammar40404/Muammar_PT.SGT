@@ -4,7 +4,7 @@
 Pastikan perangkat Anda memenuhi persyaratan berikut:
 - Node.js v18.12.0
 - npm v8.19.2
-- Vue.js 2.x
+- Vue 2
 
 ## Instalasi dan Menjalankan Project
 1. Download file project.
